@@ -3,13 +3,13 @@
   width: 30%;
   min-width: 500px;
   margin: 0 auto;
-  background-color: #cccccc;
+  box-shadow: 0 0 2px #cccccc;
 }
 
 .header,
 .footer {
   padding: 20px;
-  background-color: red:
+  background-color: #ecf0f1;
 }
 
 .sidebar {
