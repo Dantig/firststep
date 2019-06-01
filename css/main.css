@@ -27,6 +27,7 @@
   color: white;
   background-color: #3498db;
   margin-left: 170px;
+  margin-top: 300px;/*Поменяли отступут сверху*/
 }
 
 .clearfix::after {
